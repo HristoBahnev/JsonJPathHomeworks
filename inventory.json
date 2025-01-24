@@ -1,0 +1,38 @@
+[
+  {
+    "productId": 101,
+    "productName": "Laptop",
+    "category": "Electronics",
+    "price": 1200.5,
+    "stock": 25,
+    "sales": [
+      5,
+      8,
+      6
+    ]
+  },
+  {
+    "productId": 102,
+    "productName": "Office Chair",
+    "category": "Furniture",
+    "price": 250.75,
+    "stock": 30,
+    "sales": [
+      10,
+      12,
+      9
+    ]
+  },
+  {
+    "productId": 103,
+    "productName": "Desk",
+    "category": "Furniture",
+    "price": 150.0,
+    "stock": 20,
+    "sales": [
+      3,
+      5,
+      2
+    ]
+  }
+]
